@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basketball Score Tracker</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="freeThrow">Free Throw</string>
+    <string name="twoPoint">+ 2 Points</string>
+    <string name="a3point">+ 3 Points</string>
+</resources>
